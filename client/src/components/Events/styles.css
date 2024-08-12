@@ -1,0 +1,53 @@
+.cardText {
+  float: left;
+  width: 20em;
+}
+
+.cardMain {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.dateLeft {
+  width: auto;
+  float: left;
+  color: #800000;
+}
+
+.eventRight {
+  width: auto;
+  float: right;
+}
+
+.button {
+  margin-top: 2px;
+  margin-right: 2px;
+}
+
+.eventList {
+  margin-bottom: 57px;
+}
+
+.textAreaLeft {
+  width: 40%;
+  float: left;
+
+}
+
+.textAreaRight {
+  width: 40%;
+  float: right;
+}
+
+.form-control::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: black;
+  opacity: 1; /* Firefox */
+}
+
+.form-control:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: black;
+}
+
+.form-control::-ms-input-placeholder { /* Microsoft Edge */
+  color: black;
+}
